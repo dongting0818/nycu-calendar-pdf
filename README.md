@@ -1,4 +1,4 @@
-# ntu-calendar-pdf
+# nycu-calendar-pdf
 交大行事曆 PDF，免開 Excel
 
 ## ⚠️ 免責聲明
